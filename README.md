@@ -1,6 +1,4 @@
 # frontend-mentor
 My Challenges in frontend mentor
 
-#QR Code challenges - html,css
-
-
+# 1. QR Code Card challenges ☕
