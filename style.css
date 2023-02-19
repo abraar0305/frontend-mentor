@@ -1,0 +1,35 @@
+body {
+    background: rgb(202, 212, 252); 
+}
+
+.card {
+    box-shadow: 0 9px 8px 0 rgba(0,0,0,0.2);
+    max-width: 300px;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
+    font-family: serif;
+    border-radius: 5%;
+    padding: 1em;
+    background: #fff;
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card img {
+    max-width: 100%;
+    border-radius: 1em;
+}
+
+
+.card-title {
+    font-size: 25px;
+    color: rgb(37, 37, 109);
+  }
+  
+.card-text {
+    font-size: 13px;
+    color: rgb(114, 114, 114);
+  }
